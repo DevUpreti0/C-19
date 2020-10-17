@@ -1,2 +1,2 @@
-# C-19
-Bounce Off
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
